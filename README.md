@@ -3,5 +3,5 @@
 
 ##效果图
  <div>
-  <img src="https://github.com/fr1014/viewPager_tabLayout/blob/master/view/tabLayout_viewPager.gif">
+  <img src="https://github.com/fr1014/viewPager_tabLayout/blob/master/view/tabLayout_viewPager.gif" height = "500" weight = "300">
  </div>
